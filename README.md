@@ -27,5 +27,7 @@
 - 🍁 #CountryLife
 - 🎸 #RockSound
 
+<br/> :blush: &nbsp; Posso te ajudar com CSS3 e HTML5
+
 ---
 Projetos em andamento...

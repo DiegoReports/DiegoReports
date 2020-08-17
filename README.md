@@ -22,7 +22,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-henrique-reports/)](https://www.linkedin.com/in/diego-henrique-reports/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:diego.reports@gmail.com)](mailto:diego.reports@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/guinho_dihenrique/)
 
 - ❤ Programador por paixão
-- 👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 📲 Entusiasta UI/UX
 - 🍁 #CountryLife
 - 🎸 #RockSound

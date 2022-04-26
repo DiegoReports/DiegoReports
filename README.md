@@ -24,4 +24,4 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreports&" alt="diegoreports" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreports&theme=dark" alt="diegoreports" /></p>

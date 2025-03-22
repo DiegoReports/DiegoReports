@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-henrique-sg/)](https://www.linkedin.com/in/diego-henrique-sg/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:diego.reports@gmail.com)](mailto:diego.reports@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/dh.reports/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:diego.reports@gmail.com)](mailto:diego.reports@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/dh.reports/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
